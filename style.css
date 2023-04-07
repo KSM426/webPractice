@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+body {
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    padding: 0;
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+}
+
+.head1{
+    margin: 0;
+    padding: 0;
+    padding-top: 30vh;
+    padding-left: 40vw;
+    font-size: 3vw;
+    font-family: 'Share Tech Mono', monospace;
+    text-align: left;
+    align-items: center;
+}
+
+body div h1 span{
+    font-size: 4vw;
+    color: #0019f4;
+}
+
+.firstPage_field{
+    background-color: #b2d7fc;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    border: none;
+    margin: 0;
+}
+
+.head2{
+    margin: 0;
+    padding: 0;
+    font-family: 'Share Tech Mono', monospace;
+}
+.work{
+    background-color: wheat;
+    width: 100vw;
+    height: 10vh;
+    padding: 0;
+    border: none;
+    margin: 0;
+    text-align: center;
+    font-size: 3vh;
+    padding-top: 3.5vh;
+    margin: 0;
+}
+.workList{
+    background-color: skyblue;
+    width: 40vw;
+    height: 40vh;
+    padding: 0;
+    border: none;
+    margin: 25vh, 30vw;
+    text-align: center;
+}
